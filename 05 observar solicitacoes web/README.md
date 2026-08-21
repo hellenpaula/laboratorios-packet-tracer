@@ -6,8 +6,7 @@ Atividade prática realizada no **Cisco Packet Tracer** para observar a comunica
 
 ## 📷 Topologia
 
-![Topologia da rede](./images/topologia.png)
-<img src="imagens/img-topologia-rede.png">
+<img src="imagens/img-topologia-rede.png" alt="topologia da rede">
 
 ---
 
@@ -33,7 +32,7 @@ O endereço IP do servidor foi obtido através da resolução do nome de domíni
 
 Em seguida, o endereço ciscolearn.web.com foi acessado pelo navegador do External Client, permitindo visualizar a página hospedada no servidor.
 
-<img src="imagens/conexao-cliente-servidor-browser.png" >
+<img src="imagens/conexao-cliente-servidor-browser.png" alt="conexão cliente servidor pelo browser">
 
 ## 📄 Código HTML
 
@@ -45,7 +44,7 @@ Foi criada uma PDU complexa utilizando HTTP, com o External Client como origem e
 
 No Modo de Simulação, foram observados os eventos gerados durante a comunicação TCP/HTTP.
 
-<img src="imagens/painel-simulacao-eventos.png">
+<img src="imagens/painel-simulacao-eventos.png" alt="painel de simulação com eventos">
 
 ## 🧠 Conceitos Praticados
 - DNS e resolução de nomes
