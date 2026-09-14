@@ -6,7 +6,7 @@ Atividade prática realizada no **Cisco Packet Tracer** para explorar a comunica
 
 ## 📷 Topologia
 
-<img src="imagens/img-topologia-rede" alt="topologia da rede">
+<img src="imagens/img-topologia-rede.png" alt="topologia da rede">
 
 ---
 
