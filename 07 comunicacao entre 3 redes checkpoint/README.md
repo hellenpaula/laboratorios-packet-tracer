@@ -6,7 +6,7 @@ A atividade foi realizada como um **checkpoint de aprendizagem**, com o objetivo
 
 ## 📷 Topologia da Rede
 
-<img src='imagens/topologia-3-redes.png' alt="Topologia da rede">
+<img src='imagens/topologia-3-redes.png' alt="Topologia da rede" width="700">
 
 ## 🎯 Objetivo
 
@@ -28,7 +28,7 @@ O objetivo foi configurar o roteador e os computadores para permitir a comunica�
 | Rede B | `172.16.0.0/16`  | `172.16.0.1`  |
 | Rede C | `192.168.1.0/24` | `192.168.1.1` |
 
-<img src="imagens/configuracao-ip-pc-a1.png" alt="Configuração IP do PC A1">
+<img src="imagens/configuracao-ip-pc-a1.png" alt="Configuração IP do PC A1" width="600">
 
 ### Dispositivos
 
@@ -59,7 +59,7 @@ Durante a prática, foram realizadas as seguintes etapas:
 | GigabitEthernet0/1 | `172.16.0.1`  |
 | GigabitEthernet0/2 | `192.168.1.1` |
 
-<img src="imagens/configuracao-roteador-3-interfaces.png" alt="configuração das 3 interfaces do roteador">
+<img src="imagens/configuracao-roteador-3-interfaces.png" alt="configuração das 3 interfaces do roteador" width="500" heigth="300">
 
 ## 🧪 Verificação da Conectividade
 
@@ -74,7 +74,7 @@ ping 192.168.1.2
 
 Esses testes permitiram verificar se o roteador estava encaminhando corretamente os pacotes entre as redes A, B e C.
 
-<img src="imagens/verificacao-ping.png" alt="Verificação da conectividade">
+<img src="imagens/verificacao-ping.png" alt="Verificação da conectividade" width="800">
 
 ## 🤝 Desenvolvimento em Grupo
 
