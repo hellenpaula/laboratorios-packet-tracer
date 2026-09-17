@@ -31,11 +31,11 @@ Em seguida, foram analisados pacotes ARP Request e ARP Reply, observando os ende
 
 ### Tráfego ARP capturado
 
-<img src="IMAGEM TOTAL COM PACOTES + DETALHES DO PACOTE + DADOS.png" alt="Lista de pacotes ARP">
+<img src="imagens/IMAGEM TOTAL COM PACOTES + DETALHES DO PACOTE + DADOS.png" alt="Lista de pacotes ARP">
 
 ### Detalhes de um pacote ARP
 
-<img src="IMAGEM DETALHES DO PACOTE.png" alt="Pacote ARP analisado">
+<img src="imagens/IMAGEM DETALHES DO PACOTE.png" alt="Pacote ARP analisado">
 
 ## 🧠 O que Aprendi
 
