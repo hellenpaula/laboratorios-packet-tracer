@@ -1,6 +1,6 @@
 # 🌐 Laboratório 03 - Criando uma LAN
 
-Atividade prática realizada no **Cisco Packet Tracer** para criação e configuração de uma LAN de uma pequena filial.
+Atividade prática realizada no **Cisco Packet Tracer** durante o curso **Conceitos Básicos de Redes** para criação e configuração de uma LAN de uma pequena filial.
 
 ---
 
