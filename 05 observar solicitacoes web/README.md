@@ -1,6 +1,6 @@
 # 🌐 Laboratório 04 - Observando Solicitações Web
 
-Atividade prática realizada no **Cisco Packet Tracer** para observar a comunicação entre um cliente e um servidor Web durante uma solicitação HTTP.
+Atividade prática realizada no **Cisco Packet Tracer** durante o **Conceitos Básicos de Redes** para observar a comunicação entre um cliente e um servidor Web durante uma solicitação HTTP.
 
 ---
 
