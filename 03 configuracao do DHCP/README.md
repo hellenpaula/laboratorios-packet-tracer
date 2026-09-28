@@ -1,6 +1,6 @@
 # 🌐 Laboratório 03 - Configuração de DHCP
 
-Atividade prática do Cisco Packet Tracer para configurar o DHCP de um roteador wireless e permitir que dispositivos obtenham seus endereços IP automaticamente.
+Atividade prática do Cisco Packet Tracer durate o curso **Conceitos Básicos de Redes** para configurar o DHCP de um roteador wireless e permitir que dispositivos obtenham seus endereços IP automaticamente.
 
 ---
 
