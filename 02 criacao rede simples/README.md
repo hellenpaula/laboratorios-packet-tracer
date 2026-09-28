@@ -1,6 +1,6 @@
 # 🌐 Laboratório 2 - Criar uma Rede Simples
 
-Atividade prática realizada no **Cisco Packet Tracer**, com o objetivo de construir uma rede doméstica simples, conectar dispositivos por diferentes meios e verificar a comunicação entre eles.
+Atividade prática realizada no **Cisco Packet Tracer** no curso **Conceitos Básicos de Redes**, com o objetivo de construir uma rede doméstica simples, conectar dispositivos por diferentes meios e verificar a comunicação entre eles.
 
 ---
 
