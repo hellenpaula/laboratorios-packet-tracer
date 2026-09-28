@@ -1,6 +1,6 @@
 # 📁 Laboratório 05 - Usando Serviços FTP
 
-Atividade prática realizada no **Cisco Packet Tracer** para explorar a comunicação entre um cliente e um servidor utilizando o **FTP (File Transfer Protocol)**.
+Atividade prática realizada no **Cisco Packet Tracer** durante o curso **Conceitos Básicos de Redes** para explorar a comunicação entre um cliente e um servidor utilizando o **FTP (File Transfer Protocol)**.
 
 ---
 
