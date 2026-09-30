@@ -4,7 +4,7 @@ Atividade prática realizada no Cisco Packet Tracer, durante o curso **Seguranç
 
 ## 📷 Topologia
 
-![Topologia da atividade](./images/topologia.png)
+<img src="imagens/foto-topologia-geral.png" alt="Topologia geral" >
 
 ## 🎯 Objetivos
 
@@ -40,15 +40,14 @@ Após conectar o Laptop1 corretamente à rede sem fio, foi realizado um novo tes
 
 ### Teste de conectividade
 
-![Teste de conectividade](./images/teste-conectividade.png)
-
+<img src="imagens/foto-teste-conectividade.png" alt="Teste de conectividade" width="600">
 ### Conexão à rede wireless
 
-![Conexão wireless](./images/conexao-wireless.png)
+<img src="imagens/foto-conectando-notebook-na-rede-wireless.png" alt="Conexão wireless" width="600">
 
 ### Teste após a correção
 
-![Teste final](./images/teste-final.png)
+<img src="imagens/foto-testando-conectividade-site.png" alt="Teste final" width="600">
 
 ## 🧠 Conceitos praticados
 
