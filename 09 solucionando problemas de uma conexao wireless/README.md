@@ -1,6 +1,6 @@
 # 📶 Solucionar Problemas de uma Conexão Wireless
 
-Atividade prática realizada no Cisco Packet Tracer, durante o curso **Segurança de Endpoint**, com o objetivo de identificar e corrigir uma falha de conectividade em uma rede sem fio.
+Atividade prática realizada no Cisco Packet Tracer, durante o curso **Segurança de Endpoint** na participação do programa **Mulher Digital**, com o objetivo de identificar e corrigir uma falha de conectividade em uma rede sem fio.
 
 ## 📷 Topologia
 
